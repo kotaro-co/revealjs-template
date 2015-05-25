@@ -2,8 +2,8 @@
 Markdownテキストからブラウザで動作するHTMLスライドを生成するテンプレート（reveal.js）の使用方法。  
 テンプレートの場所やMarkdownの簡単な記法を説明。
 
-##reveal.js - The HTML Presentation Framework
-[http://lab.hakim.se/reveal-js/#/](http://lab.hakim.se/reveal-js/#/)
+- [Demo](http://kotaro-co.github.io/revealjs-template/)
+- [reveal.js - The HTML Presentation Framework](http://lab.hakim.se/reveal-js/#/)
 
 #使い方
 - 上記ファイル一式をローカルに保存
